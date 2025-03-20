@@ -56,7 +56,7 @@ export default function Home() {
       <section className="bg-gray-50 py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            Supporting Canada's digital transformation with enterprise-grade solutions that meet the highest standards of security, accessibility, and compliance.
+            Supporting Canada&apos;s digital transformation with enterprise-grade solutions that meet the highest standards of security, accessibility, and compliance.
           </p>
         </div>
       </section>
