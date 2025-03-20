@@ -17,7 +17,7 @@ export default function AboutSection() {
               </div>
               <div className="p-6 bg-gray-50 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Expert Team</h3>
-                <p className="text-gray-600">Experienced professionals in government software development</p>
+                <p className="text-gray-600">Experienced professionals in software development</p>
               </div>
               <div className="p-6 bg-gray-50 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Quality Assured</h3>

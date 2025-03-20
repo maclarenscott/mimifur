@@ -7,9 +7,6 @@ export default function ContactSection() {
         <div className="text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-8">Contact Us</h2>
           <div className="max-w-2xl mx-auto">
-            <p className="text-lg text-gray-600 mb-8">
-              Ready to discuss your government technology needs? Get in touch with our Quebec-based team.
-            </p>
             <form className="space-y-6">
               <div>
                 <label htmlFor="email" className="block text-sm font-medium text-gray-700">

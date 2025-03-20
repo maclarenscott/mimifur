@@ -16,7 +16,7 @@ export default function Home() {
             <div className="hidden md:flex space-x-8">
               <Link href="#about" className="text-gray-600 hover:text-gray-900">About</Link>
               <Link href="#services" className="text-gray-600 hover:text-gray-900">Solutions</Link>
-              <Link href="#contact" className="text-gray-600 hover:text-gray-900">Contact</Link>
+              {/* <Link href="#contact" className="text-gray-600 hover:text-gray-900">Contact</Link> */}
             </div>
           </div>
         </div>
@@ -71,10 +71,10 @@ export default function Home() {
         <ServicesSection />
       </section>
 
-      {/* Contact Section */}
+      {/* Contact Section
       <section className="bg-white py-24">
         <ContactSection />
-      </section>
+      </section> */}
 
       <Footer />
     </main>
