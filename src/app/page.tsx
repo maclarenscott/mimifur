@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import AboutSection from "@/components/AboutSection";
 import ServicesSection from "@/components/ServicesSection";
-import ContactSection from "@/components/ContactSection";
+// import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
 export default function Home() {
