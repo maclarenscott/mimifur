@@ -41,12 +41,12 @@ export default function Home() {
               <p className="text-xl mb-8 text-gray-100 leading-relaxed">
                 Providing secure, compliant, and reliable software solutions for federal, provincial, and municipal agencies across Canada.
               </p>
-              <Link
+              {/* <Link
                 href="#contact"
                 className="inline-block bg-white text-gray-900 px-8 py-3 rounded-md font-medium hover:bg-gray-100 transition-colors"
               >
                 Request Information
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
