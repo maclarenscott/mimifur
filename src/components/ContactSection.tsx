@@ -7,7 +7,7 @@ export default function ContactSection() {
         <div className="text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-8">Contact Us</h2>
           <div className="max-w-2xl mx-auto">
-            <form className="space-y-6">
+            {/* <form className="space-y-6">
               <div>
                 <label htmlFor="email" className="block text-sm font-medium text-gray-700">
                   Email
@@ -52,8 +52,11 @@ export default function ContactSection() {
                   Send Message
                 </button>
               </div>
-            </form>
-          </div>
+            </form> */}
+          </div> 
+          <p className="text-lg text-gray-600 mb-8">
+            For direct inquiries, please contact <a href="mailto:maclarenscottdev@gmail.com" className="text-blue-500 hover:text-blue-600">maclarenscottdev@gmail.com</a>.
+          </p>
         </div>
       </div>
     </section>
