@@ -13,7 +13,7 @@ export default function Home() {
       <nav className="fixed w-full bg-white/95 backdrop-blur-sm z-50 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            <span className="text-xl font-heading font-semibold text-gray-900">Mimifur Technologies Limited.</span>
+            <span className="text-xl font-heading font-semibold text-gray-900">Mimifur Technologies Limited</span>
             <div className="hidden md:flex space-x-8">
               <Link href="#about" className="text-gray-600 hover:text-gray-900">About</Link>
               <Link href="#services" className="text-gray-600 hover:text-gray-900">Solutions</Link>

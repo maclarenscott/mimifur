@@ -13,7 +13,7 @@ const libreFranklin = Libre_Franklin({
 });
 
 export const metadata: Metadata = {
-  title: "Mimifur Technologies Inc. | Canadian Software Solutions",
+  title: "Mimifur Technologies Limited | Canadian Software Solutions",
   description: "Professional software solutions provider specializing in government contracts. Based in Canada.",
 };
 

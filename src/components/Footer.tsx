@@ -47,7 +47,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-gray-800">
           <p className="text-center text-sm text-gray-400">
-            © {new Date().getFullYear()} Mimifur Technologies Inc. All rights reserved.
+            © {new Date().getFullYear()} Mimifur Technologies Limited All rights reserved.
           </p>
         </div>
       </div>
